@@ -1,0 +1,2 @@
+$ cd cat > Git es un sistema de control de versiones ideado por Linus Torvalds.[H[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C[D[3~[3~[C[3~[3~[C[3~[3~[3~[C[C[C[C[C[C[C[C[[D[3
+
